@@ -3,7 +3,6 @@ import { NavController, IonicPage } from 'ionic-angular';
 import { MenuController } from 'ionic-angular/components/app/menu-controller';
 
 
-
 @IonicPage()
 @Component({
   selector: 'page-home',
